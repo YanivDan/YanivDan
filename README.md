@@ -1,4 +1,4 @@
-# Hi, I'm Yaniv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> 🏊🚴🏃 💻 🦀
+# Hi, I'm Yaniv 🏊🚴🏃 💻 🦀
 
 I'm a **Embedded Security Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **TODO**.
 
