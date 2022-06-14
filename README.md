@@ -1,6 +1,6 @@
 # Hi, I'm Yaniv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏊🚴🏃 💻 🦀
 
-I'm a **Cyber Security Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **TODO**.
+I'm a **Embedded Security Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **TODO**.
 
 I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
@@ -10,7 +10,6 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## My stack is as follows ⚡
 * **Backend**: Rust, C/C++, Python 
-* **Databases**: MongoDB
 * **CI/CD**: GitHub Actions, Jest, Jenkins
 
 
@@ -25,6 +24,4 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 
 ## How to reach me 📫
-- E-mail: TBD
-- Twitter: TBD
 - Linkedin: Yaniv Dan
