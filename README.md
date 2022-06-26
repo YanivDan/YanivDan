@@ -1,8 +1,8 @@
 # Hi, I'm Yaniv 🏊🚴🏃 💻 🦀
 
-I'm a **Embedded Security Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **TODO**.
+I'm a **Embedded Security Engineer** and I'm passionate about embedded systems, especially **hardware and software integrations**.
 
-I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
+I'm passionate about **problem-solving and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
 I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. I find joy in ambiguity and unknown and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers!
 
