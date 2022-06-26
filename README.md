@@ -15,7 +15,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## Current situation ✨
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently studying for my bs.c in CS
 
 
 ## My GitHub Stats &#x1f4c8;
