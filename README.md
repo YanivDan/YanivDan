@@ -1,4 +1,4 @@
-# Hi, I'm Yaniv 🏊🚴🏃 💻 🦀
+# Hi, I'm Yaniv 💻 🦀
 
 I'm a **Security Architect** and with great passion about embedded systems and cryptography.
 
