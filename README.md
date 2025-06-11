@@ -2,7 +2,7 @@
 
 I'm a **Security Architect** and with great passion about embedded systems and cryptography.
 
-code :computer: and learn new things :books:!
+code and learn new things :)
 
 ## Stack:
 * **Low level**: Rust, C/C++, Python 
