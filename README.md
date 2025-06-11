@@ -4,7 +4,7 @@ I'm a **Security Architect** and with great passion about embedded systems and c
 
 code and learn new things :)
 
-## Stack:
+## Stack
 * **Low level**: Rust, C/C++, Python 
 
 ## How to reach me 
