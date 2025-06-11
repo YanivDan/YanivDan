@@ -1,11 +1,11 @@
-# Hi, I'm Yaniv 💻 🦀
+# About 
 
 I'm a **Security Architect** and with great passion about embedded systems and cryptography.
 
 code :computer: and learn new things :books:!
 
-## Stack: ⚡
+## Stack:
 * **Low level**: Rust, C/C++, Python 
 
-## How to reach me 📫
+## How to reach me 
 - Linkedin: Yaniv Dan
